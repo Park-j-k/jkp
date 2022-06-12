@@ -1,0 +1,18 @@
+﻿  과제.c
+C:\Users\Administrator\Desktop\과제\과제\과제.c(10,16): error C2059: 구문 오류: '='
+C:\Users\Administrator\Desktop\과제\과제\과제.c(11,16): error C2143: 구문 오류: ';'이(가) '=' 앞에 없습니다.
+C:\Users\Administrator\Desktop\과제\과제\과제.c(12,16): error C2143: 구문 오류: ';'이(가) '=' 앞에 없습니다.
+C:\Users\Administrator\Desktop\과제\과제\과제.c(15,16): error C2079: 'data'은(는) 정의되지 않은 struct '증상'을(를) 사용합니다.
+C:\Users\Administrator\Desktop\과제\과제\과제.c(17,9): error C2143: 구문 오류: ')'이(가) '문자열' 앞에 없습니다.
+C:\Users\Administrator\Desktop\과제\과제\과제.c(17,9): error C2143: 구문 오류: '{'이(가) '문자열' 앞에 없습니다.
+C:\Users\Administrator\Desktop\과제\과제\과제.c(17,9): error C2059: 구문 오류: '문자열'
+C:\Users\Administrator\Desktop\과제\과제\과제.c(17,129): error C2059: 구문 오류: ')'
+C:\Users\Administrator\Desktop\과제\과제\과제.c(18,8): error C2143: 구문 오류: ')'이(가) '문자열' 앞에 없습니다.
+C:\Users\Administrator\Desktop\과제\과제\과제.c(18,8): error C2143: 구문 오류: '{'이(가) '문자열' 앞에 없습니다.
+C:\Users\Administrator\Desktop\과제\과제\과제.c(18,8): error C2059: 구문 오류: '문자열'
+C:\Users\Administrator\Desktop\과제\과제\과제.c(18,16): error C2059: 구문 오류: ')'
+C:\Users\Administrator\Desktop\과제\과제\과제.c(20,2): error C2059: 구문 오류: 'if'
+C:\Users\Administrator\Desktop\과제\과제\과제.c(21,2): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Users\Administrator\Desktop\과제\과제\과제.c(27,2): error C2059: 구문 오류: '}'
+C:\Users\Administrator\Desktop\과제\과제\과제.c(33,2): error C2059: 구문 오류: 'return'
+C:\Users\Administrator\Desktop\과제\과제\과제.c(34,1): error C2059: 구문 오류: '}'
